@@ -1,0 +1,16 @@
+Sofia - Winner: A
+Parties and votes:
+ - A: 700
+ - B: 500
+ - C: 300
+
+Varna - Winner: B
+Parties and votes:
+ - A: 300
+ - B: 500
+
+Plovdiv - Winner: No
+Parties and votes:
+ - A: 350
+ - B: 350
+

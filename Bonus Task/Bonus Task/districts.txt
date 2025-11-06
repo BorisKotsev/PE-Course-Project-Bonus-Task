@@ -1,0 +1,16 @@
+Sofia - Winner: A
+Parties:
+ - A
+ - B
+ - C
+
+Varna - Winner: B
+Parties:
+ - A
+ - B
+
+Plovdiv - Winner: No
+Parties:
+ - A
+ - B
+
